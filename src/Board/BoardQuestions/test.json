@@ -1,0 +1,346 @@
+[
+  [
+    {
+      "category": "Category 1", 
+      "questions": [
+        {
+          "question": "I vilket land kommer mest määnniskor ifrån, om dagen blir det ljust, I vilket land kommer mest määnniskor ifrån, om dagen blir det ljust, ",
+          "answer": "answer1"
+        },
+        {
+          "question": "question1232",
+          "answer": "answer2"
+        },
+        {
+          "question": "question3123",
+          "answer": "answer3"
+        },
+        {
+          "question": "question4123123",
+          "answer": "answer4"
+        }
+      ]
+    },
+    {
+      "category": "Category 2",
+      "questions": [
+        {
+          "question": "questio34534n1",
+          "answer": "answer1"
+        },
+        {
+          "question": "quest34534ion2",
+          "answer": "answer2"
+        },
+        {
+          "question": "quest3545ion3",
+          "answer": "answer3"
+        },
+        {
+          "question": "quest345345ion4",
+          "answer": "answer4"
+        }
+      ]
+    },
+    {
+      "category": "Category 3", 
+      "questions": [
+        {
+          "question": "quest345ion1",
+          "answer": "answer1"
+        },
+        {
+          "question": "questio6677n2",
+          "answer": "answer2"
+        },
+        {
+          "question": "ques234234tion3",
+          "answer": "answer3"
+        },
+        {
+          "question": "questio234523n4",
+          "answer": "answer4"
+        }
+      ]
+    },
+    {
+      "category": "Category 4", 
+      "questions": [
+        {
+          "question": "quest6544ion1",
+          "answer": "answer1"
+        },
+        {
+          "question": "questio4456n2",
+          "answer": "answer2"
+        },
+        {
+          "question": "quest23566ion3",
+          "answer": "answer3"
+        },
+        {
+          "question": "questi234234on4",
+          "answer": "answer4"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "category": "Sci-Fi", 
+      "questions": [
+        {
+          "question": "...kan förflytta sig från en plats till en annan, utan att röra sig fysiskt",
+          "answer": "Vad är Teleportation"
+        },
+        {
+          "question": "...är filmhjälten Lukes syster i Star Wars",
+          "answer": "Vem är Leia Skywalker (Princess Leia)"
+        },
+        {
+          "question": "...regisserade filmen '2001 a space odyssey'",
+          "answer": "Vem är Stanley Kubrick."
+        },
+        {
+          "question": "...spelar karaktären Roy Batty, i Blade Runner",
+          "answer": "Vem är Rutger Hauer"
+        }
+      ]
+    },
+    {
+      "category": "Djur",
+      "questions": [
+        {
+          "question": "...sveriges största djur",
+          "answer": "Vad är älg"
+        },
+        {
+          "question": "...är feles på latin.",
+          "answer": "Vad är katt"
+        },
+        {
+          "question": "...är den största rovfågel i Nordeuropa",
+          "answer": "...vad är havsörn"
+        },
+        {
+          "question": "...dessa djur kallas för 'The Big Five",
+          "answer": "Vad är, leopard, lejon, elefant, noshörning och afrikansk buffel"
+        }
+      ]
+    },
+    {
+      "category": "Programmering", 
+      "questions": [
+        {
+          "question": "...en plats i en dators minne reserverat för någon typ av data",
+          "answer": "Vad är en Variabel"
+        },
+        {
+          "question": "...förkortning på processor",
+          "answer": "Vad är CPU"
+        },
+        {
+          "question": "...dataytpen möjliggör decimaltal",
+          "answer": "Vad är float"
+        },
+        {
+          "question": "...skapare av Boolesk Algebra",
+          "answer": "Vem var George Boole"
+        }
+      ]
+    },
+    {
+      "category": "Politik", 
+      "questions": [
+        {
+          "question": "...kanalen FOX trognaste tittare",
+          "answer": "Vem är Donald Trump"
+        },
+        {
+          "question": "...blev tårtad på sin budgetpromenad 2001",
+          "answer": "Vem är Bosse Ringholm"
+        },
+        {
+          "question": "...centerpartist, som efterträdde Olof Palme 1976",
+          "answer": "Vem var Thorbjörn Fälldin"
+        },
+        {
+          "question": "...hade en ämbetstid på 23 år och 3 dagar",
+          "answer": "...vem var Tage Erlander"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "category": "Internet", 
+      "questions": [
+        {
+          "question": "...året då den första hemsidan publiceras publikt",
+          "answer": "Vad är 1993"
+        },
+        {
+          "question": "...streamingtjänst för spel",
+          "answer": "Vad är Twitch"
+        },
+        {
+          "question": "...Sveriges bästa(?) E-sportspelare genom tiderna",
+          "answer": "Vem är Emil Christensen / HeatoN"
+        },
+        {
+          "question": "...sägs vara bitCoins skapare, och går under pseudonymet 'Satoshi Nakamoto'",
+          "answer": "Vem är Craig Steven Wright"
+        }
+      ]
+    },
+    {
+      "category": "Århundraden",
+      "questions": [
+        {
+          "question": "...Titanic sjunker",
+          "answer": "Vad 1900-talet"
+        },
+        {
+          "question": "...Gustav Vasa blir kung",
+          "answer": "Vad är 1500-talet"
+        },
+        {
+          "question": "...Marie-Antoinette avrättas med giljotin",
+          "answer": "...vad 1700-talet"
+        },
+        {
+          "question": "...Jeanne d'Arc föddes",
+          "answer": "...vad är 1400-talet"
+        }
+      ]
+    },
+    {
+      "category": "Döden", 
+      "questions": [
+        {
+          "question": "...Max Von Sydow spelar ett schackparti mot döden i denna film",
+          "answer": "Vad är Sjunde Inseglet"
+        },
+        {
+          "question": "...är en stor och viktig religiös högtid i Mexiko som infaller den 2 november",
+          "answer": "Vad Día de muertos, Día de los muertos, Días de muertos eller Días de los muertos"
+        },
+        {
+          "question": "...så många gånger Mario kan dö i Super Mario Bros (ett)",
+          "answer": "Vad är 3 liv"
+        },
+        {
+          "question": "...sfärisk rymdstation",
+          "answer": "Vad  Dödsstjärnan eller Death Star"
+        }
+      ]
+    },
+    {
+      "category": "Färger", 
+      "questions": [
+        {
+          "question": "...#ffffff",
+          "answer": "Vad är vit"
+        },
+        {
+          "question": "...rgb(255, 0, 0)",
+          "answer": "Vad är röd"
+        },
+        {
+          "question": "...rgb(0, 0, 255)",
+          "answer": "Vad är blå"
+        },
+        {
+          "question": "...kallades svarta nejlikan under andra världskriget",
+          "answer": "Vem var Harald Edelstam"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "category": "Sport", 
+      "questions": [
+        {
+          "question": "...med sin snurrande målgest så var han med och bar landslaget till bronsmedalj i fotbolls-VM 1994",
+          "answer": "Vem är Thomas Brolin"
+        },
+        {
+          "question": "...en av Sveriges största utförsåkare, och hotellägare i Idre",
+          "answer": "Vem är Pernilla Wiberg"
+        },
+        {
+          "question": "...har vunnit ett VM-silver med Brasiliens damlandslag i fotboll, och sju SM-guld",
+          "answer": "Vem är Marta Vieira da Silva"
+        },
+        {
+          "question": "...dör tragiskt på Monza-banan den 10 september 1978'",
+          "answer": "Vem var Ronnie Peterson"
+        }
+      ]
+    },
+    {
+      "category": "Kultur",
+      "questions": [
+        {
+          "question": "...i detta konstmuseum kan du se Mona Lisa",
+          "answer": "Vad är Louvren"
+        },
+        {
+          "question": "...har skrivit musiken till, Phantom of the opera, Cats, Evit med flera",
+          "answer": "Vem är Andrew Lloyd Webber "
+        },
+        {
+          "question": "...borta med vinden utspelar sig under detta krig",
+          "answer": "Vad är det Amerikanska Inbördeskriget"
+        },
+        {
+          "question": "...känd för sina illustrationer till Astrid Lindgrens och Edith Unnerstads böcker",
+          "answer": "Vem är Ilon Wikland"
+        }
+      ]
+    },
+    {
+      "category": "I köket", 
+      "questions": [
+        {
+          "question": "...2 ägg, 6dl mjölk, 3dl mjöl, 1tsk salt",
+          "answer": "Vad är pannkakor"
+        },
+        {
+          "question": "...är ett franskt uttryck som betyder, allt på plats",
+          "answer": "Vad är mise en place"
+        },
+        {
+          "question": "...Hannibal Lecters 'favoritvin'",
+          "answer": "Vad är chianti"
+        },
+        {
+          "question": "...en av Sveriges vanligaste förrätter skapad av Tore Wretman",
+          "answer": "Vad Toast Skagen"
+        }
+      ]
+    },
+    {
+      "category": "Geologi i sagorna",
+      "questions": [
+        {
+          "question": "...sten som gör stålmannen svag",
+          "answer": "Vad är kryptonit"
+        },
+        {
+          "question": "...wolverines skelett",
+          "answer": "Vad är adamantium"
+        },
+        {
+          "question": "...utvinns i Morias gruvor",
+          "answer": "Vad är mithril"
+        },
+        {
+          "question": "...fiktiv mineral från spelet Command & Conquer",
+          "answer": "Vad är Tiberium"
+        }
+      ]
+    }
+  ]
+]
